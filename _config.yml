@@ -1,5 +1,6 @@
 theme: jekyll-theme-slate
 title: Chatify - Learning Pager Chat App MVP
 description: The Chatify - Learning Pager Chat App MVP is a messaging platform designed to facilitate real-time communication and collaboration for educational purposes. It enables users, such as students and educators, to exchange messages, share resources, and engage in discussions, enhancing the learning experience through seamless interaction.
-show_downloads: ["true" or "false" to indicate whether to provide a download URL]
-google_analytics: [Your Google Analytics tracking ID]
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-slate
